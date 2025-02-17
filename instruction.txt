@@ -1,0 +1,37 @@
+
+Welcome to the 12 Beads Game!
+
+Getting Started:
+
+1. Select the game mode:
+    - Single-player: Play against the computer.
+    - Multi-player: Play against another player.
+2. Enter your name (and your opponent's name in multi-player mode).
+3. The game will start with the initial grid and pieces.
+
+Making Moves:
+
+1. Enter the row number (0-4) of the piece you want to move.
+2. Enter the column number (0-4) of the piece you want to move.
+3. Enter the row number (0-4) of the destination square.
+4. Enter the column number (0-4) of the destination square.
+
+Tips:
+
+- You can only move one piece per turn.
+- You can only capture an opponent's piece by jumping over it to an empty square.
+- You cannot move a piece to a square occupied by another piece of the same type (X or O).
+
+Error Messages:
+
+- If you try to make an illegal move, the game will display an error message and ask for a new input.
+- If you try to capture an opponent's piece without a clear path, the game will display an error message and ask for a new input.
+
+** Winning the Game:**
+
+- The game ends when one player captures all of their opponent's pieces or blocks them so they cannot move.
+- The winner will be declared and the game will end.
+
+Good Luck and Have Fun!
+
+Press enter key to continue.................
